@@ -1,0 +1,9 @@
+{
+	"siteId": "55645b0e-81cc-47ab-abe3-819a438ac864",
+	"oneGraphSessionId": "9baa7b26-bf92-4c35-a75a-7836b9e1632b",
+	"oneGraphEnabledServices": [
+		"GITHUB",
+		"NPM",
+		"SPOTIFY"
+	]
+}
